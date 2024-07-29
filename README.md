@@ -1,9 +1,9 @@
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": []
+  "nbformat": 4, 
+  "nbformat_minor": 0, 
+  "metadata": { 
+    "colab": { 
+      "provenance": [] 
     },
     "kernelspec": {
       "name": "python3",
